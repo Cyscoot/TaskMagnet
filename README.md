@@ -36,7 +36,7 @@ To cancel a magnet connection :
 
 ## Download
 
-To download the module, you can get it from the [Roblox's Creator Marketplace](https://create.roblox.com/marketplace/models) or get it from the github repo.
+To download the module, you can get it from the [Roblox's Creator Marketplace](https://create.roblox.com/marketplace/asset/14385810180/TaskMagnet) or get it from the github repo.
 
 ## Note
 
