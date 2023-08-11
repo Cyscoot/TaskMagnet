@@ -7,7 +7,7 @@ And, this means that if the player leaves the game, every tasks related to him w
 ## Why is this useful ? ?
 Sometimes, when coding a game it, it may happen that you want to create tasks related to the player's presence. For example, let's say we want to make a BillboardGui above the player's head that displays a cooldown of 10 seconds.
 
-So, we'll make a for loop, and we'll have to check if the player is still here to execute at every iteration which is not very clean and may cause problems.
+So, we'll make a for loop, and we'll have to check if the player is still here at every iteration which is not very clean and may cause problems.
 
 ## Vocabulary
 
